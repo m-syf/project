@@ -1929,7 +1929,7 @@ window._cookie = {
             }
         }
         t.M("a")._I(function() {
-            return /^(http\:\/\/)?(astinquery\.web\.id|astinquery\.blogspot\.com)?.*?\/.*?\?showComment\=[0-9]+\#c[0-9]+/.test(this.href)
+            return /^(http\:\/\/)?(stn-one\.web\.id|stn-one\.blogspot\.com)?.*?\/.*?\?showComment\=[0-9]+\#c[0-9]+/.test(this.href)
         }).attr({
             title: "Klik untuk memuat jawaban/pertanyaan sejenis."
         }).on("click", function() {
